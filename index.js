@@ -7,3 +7,4 @@ function addingEventListener(click){
       alert('I was clicked!');
     })
 }
+addingEventListener()
